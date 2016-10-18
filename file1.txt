@@ -1,2 +1,5 @@
-first file added in git
+first file added in git. this is new sentence
 
+
+
+modifed
